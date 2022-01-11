@@ -1,0 +1,2 @@
+# blog
+alexlandau.dev/blog
